@@ -8,7 +8,7 @@ TORRID is a social media platform that creates a space for people to share ideas
 
 ## Motivation
 
-As an active subscriber on two of the most popular blog oriented social media platforms, Quora [www.quora.com] and Medium [www.medium.com], I am sometimes frustrated by having to switch between the two sometimes. An example, you've just read an interesting article on @medium and you would like to ask a question related to this topic to the platform's community, you can't! except if you post something on the comments or ask the author directly.
+As an active subscriber on two of the most popular blog oriented social media platforms, [Quora] (www.quora.com) and Medium [www.medium.com], I am sometimes frustrated by having to switch between the two sometimes. An example, you've just read an interesting article on @medium and you would like to ask a question related to this topic to the platform's community, you can't! except if you post something on the comments or ask the author directly.
 
 Now, you are on @quora, a community member has asked an interesting question and the answers end on a cliff-hanger. In order to get an indepth article on this particular topic, you'd have to switch over to @medium.
 
