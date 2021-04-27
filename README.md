@@ -1,4 +1,4 @@
-# TORRID
+# TORRID ✍️ 📱 : ⚠️ ⚠️ THIS PROJET IS UNDER CONSTRUCTION ⚠️ 🚧 👷 
 
 This is a blog app that creates a space for users to ask questions, answer questions and write articles about topics they are passionate about.
 
@@ -16,4 +16,4 @@ The motivation for torrid, is to create a space that will facilitate, *asking qu
 
 ## Objective
 
-To develop a community driven social media platform that will facilitate asking questions, providing answers, reading and writing articles on a variety of topics. The main goal is to avail knowledge in abundance. 
+To develop a community driven social media platform that will facilitate asking questions, providing answers, reading and writing articles on a variety of topics. The main goal is to avail knowledge in abundance.
